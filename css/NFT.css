@@ -125,6 +125,9 @@ ul li:nth-child(2)::before {
 }
 .creator a{
   text-decoration: none;
+  color: hsl(215, 51%, 70%);;
+}
+.creator A:hover{
   color: hsl(178, 100%, 50%);
 }
 /*End Creator*/
